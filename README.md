@@ -1,2 +1,2 @@
-# RestauranteReactNative
-Criação de aplicativo com React Native para localização de cupons em restaurantes na sua região.
+# BuscaRestaurante
+Aplicativo desenvolvido em React Native com o intuito de simular a localização de restaurantes próximos que possuam cupons de desconto ativo.
